@@ -1,3 +1,3 @@
-module github.com/golang-modules/go-hello
+module github.com/montohang/go-hello
 
 go 1.13
